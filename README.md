@@ -1,30 +1,21 @@
-# Swiggy Delivery Experience & Operational Insights Dashboard
+# Swiggy Delivery Experience Optimization
 
-## Project Overview
-This project analyzes Swiggy delivery operations using SQL and Power BI to identify operational bottlenecks, traffic impact, cancellation trends, peak-hour behavior, and customer experience metrics.
+## Improving Delivery Efficiency, ETA Accuracy, and Customer Retention Using Product Analytics
 
-## Tools Used
-- SQL (MySQL)
+### Project Type
+Product Analytics / Product Strategy Case Study
+
+### Focus Areas
+- Delivery Optimization
+- Customer Retention
+- ETA Accuracy
+- Product Experience
+- Operational Efficiency
+- Product KPIs
+
+### Tools Used
 - Power BI
-- Excel
-
-## Key KPIs
-- Total Orders
-- Average Delivery Time
-- Customer Ratings
-- Cancelled Orders
-
-## Key Insights
-- Pune showed the highest average delivery time.
-- High traffic significantly increased delivery delays.
-- Cancellation trends highlighted operational inefficiencies.
-- Peak-hour demand heavily impacted delivery performance.
-
-## Dashboard Preview
-(Add screenshot here)
-
-## Business Recommendations
-- Improve delivery allocation during peak traffic.
-- Optimize operational coordination.
-- Monitor cancellation drivers.
-- Improve customer communication during delays.
+- SQL
+- Product Analytics
+- KPI Frameworks
+- Wireframing
