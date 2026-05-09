@@ -1,2 +1,30 @@
-# Swiggy-Delivery-Experience-Optimization
-Product Analytics &amp; Operational Insights Dashboard using SQL and Power BI to analyze delivery performance, traffic impact, cancellations, and customer experience.
+# Swiggy Delivery Experience & Operational Insights Dashboard
+
+## Project Overview
+This project analyzes Swiggy delivery operations using SQL and Power BI to identify operational bottlenecks, traffic impact, cancellation trends, peak-hour behavior, and customer experience metrics.
+
+## Tools Used
+- SQL (MySQL)
+- Power BI
+- Excel
+
+## Key KPIs
+- Total Orders
+- Average Delivery Time
+- Customer Ratings
+- Cancelled Orders
+
+## Key Insights
+- Pune showed the highest average delivery time.
+- High traffic significantly increased delivery delays.
+- Cancellation trends highlighted operational inefficiencies.
+- Peak-hour demand heavily impacted delivery performance.
+
+## Dashboard Preview
+(Add screenshot here)
+
+## Business Recommendations
+- Improve delivery allocation during peak traffic.
+- Optimize operational coordination.
+- Monitor cancellation drivers.
+- Improve customer communication during delays.
